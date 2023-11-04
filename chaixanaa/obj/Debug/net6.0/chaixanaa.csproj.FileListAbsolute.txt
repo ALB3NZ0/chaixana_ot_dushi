@@ -1,0 +1,14 @@
+C:\Users\Рустам\source\repos\chaixanaa\chaixanaa\bin\Debug\net6.0\chaixanaa.exe
+C:\Users\Рустам\source\repos\chaixanaa\chaixanaa\bin\Debug\net6.0\chaixanaa.deps.json
+C:\Users\Рустам\source\repos\chaixanaa\chaixanaa\bin\Debug\net6.0\chaixanaa.runtimeconfig.json
+C:\Users\Рустам\source\repos\chaixanaa\chaixanaa\bin\Debug\net6.0\chaixanaa.dll
+C:\Users\Рустам\source\repos\chaixanaa\chaixanaa\bin\Debug\net6.0\chaixanaa.pdb
+C:\Users\Рустам\source\repos\chaixanaa\chaixanaa\obj\Debug\net6.0\chaixanaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рустам\source\repos\chaixanaa\chaixanaa\obj\Debug\net6.0\chaixanaa.AssemblyInfoInputs.cache
+C:\Users\Рустам\source\repos\chaixanaa\chaixanaa\obj\Debug\net6.0\chaixanaa.AssemblyInfo.cs
+C:\Users\Рустам\source\repos\chaixanaa\chaixanaa\obj\Debug\net6.0\chaixanaa.csproj.CoreCompileInputs.cache
+C:\Users\Рустам\source\repos\chaixanaa\chaixanaa\obj\Debug\net6.0\chaixanaa.dll
+C:\Users\Рустам\source\repos\chaixanaa\chaixanaa\obj\Debug\net6.0\refint\chaixanaa.dll
+C:\Users\Рустам\source\repos\chaixanaa\chaixanaa\obj\Debug\net6.0\chaixanaa.pdb
+C:\Users\Рустам\source\repos\chaixanaa\chaixanaa\obj\Debug\net6.0\chaixanaa.genruntimeconfig.cache
+C:\Users\Рустам\source\repos\chaixanaa\chaixanaa\obj\Debug\net6.0\ref\chaixanaa.dll
